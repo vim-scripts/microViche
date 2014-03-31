@@ -1,7 +1,10 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4835
 
-Textabyss lets you pan and zoom through massive text archives
+microViche (microfiche + Vi) lets you pan and zoom through text archives ...
+
 ... and has great mouse support,
 ... automatic mapping,
 ... a youtube demo (http://www.youtube.com/watch?v=xkED6Mv_4bc),
-... and a github site (https://github.com/q335r49/textabyss)!
+... and a github site (https://github.com/q335r49/microviche)!
+
+(The original name was 'textabyss')
