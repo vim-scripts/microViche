@@ -1,8 +1,7 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4835
 
-microViche (microfiche + Vi) lets you pan and zoom through text archives ...
-
-... it has great mouse support,
+microViche (microfiche + Vi) lets you pan and zoom through text archives and
+... has great mouse support,
 ... automatic mapping,
 ... a youtube demo (https://www.youtube.com/watch?v=9YNiPUTGO28),
 ... and a github site (https://github.com/q335r49/microviche)!
